@@ -1,0 +1,53 @@
+body{
+    background-color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.common{
+    background-color: white;
+    border: 2px solid burlywood;
+    position:absolute;
+}
+
+.header{
+    top: 3px;
+    left: 3px;
+    right: 3px;
+    height: 60px;
+    border-bottom: solid 1px aliceblue;
+    padding-bottom: 5px;
+}
+.leftmenu{
+    top: 70px;
+    left: 3px;
+    width: 180px;
+    bottom: 70px;
+    border-right: solid 1px aliceblue;
+    padding-top: 5px;
+    padding-right: 5px;
+}
+.rightmenu{
+    top: 70px;
+    right: 3px;
+    width: 280px;
+    bottom: 70px;
+    border-left: solid 1px aliceblue;
+    padding-top: 5px;
+    padding-left: 5px;
+}
+.mainbody{
+    top: 70px;
+    left: 190px;
+    right: 290px;
+    bottom: 70px;
+    padding-top: 5px;
+    padding-left: 5px;
+}
+.footer{
+    bottom: 3px;
+    left: 3px;
+    right: 3px;
+    height: 60px;
+    border-top: solid 1px aliceblue;
+    position: relative;
+}
